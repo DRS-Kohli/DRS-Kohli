@@ -1,6 +1,5 @@
 <picture>
- <img alt="YOUR-ALT-TEXT" src=" ![LucidDreaming2023](https://github.com/DRS-Kohli/DRS-Kohli/assets/161210730/ef4590a1-8b2f-4f93-bc17-fdd43b3c4684)
-">
+ <img alt="YOUR-ALT-TEXT" src=" ![LucidDreaming2023](https://storage.googleapis.com/shambhala-calendar/calendar/DCL/LucidDreaming2023.jpg) ">
 </picture>
 
 ### Hi there 👋 I'm Divya Rehat Singh Kohli
