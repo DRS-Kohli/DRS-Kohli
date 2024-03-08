@@ -1,9 +1,5 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="![image](https://github.com/DRS-Kohli/DRS-Kohli/assets/161210730/0ec73af0-a2cf-4d54-8480-ce21cf0b8a9e)
-">
- <source media="(prefers-color-scheme: light)" srcset="![image](https://github.com/DRS-Kohli/DRS-Kohli/assets/161210730/8038eb1f-bf50-4055-b0c7-b371e75f5529)
-">
- <img alt="YOUR-ALT-TEXT" src="![image](https://github.com/DRS-Kohli/DRS-Kohli/assets/161210730/73e534b4-976b-4a61-b785-c98d8fd4fbf6)
+ <img alt="YOUR-ALT-TEXT" src=" ![LucidDreaming2023](https://github.com/DRS-Kohli/DRS-Kohli/assets/161210730/ef4590a1-8b2f-4f93-bc17-fdd43b3c4684)
 ">
 </picture>
 
