@@ -1,8 +1,5 @@
-### Hi there 👋 My Name is Divya Rehat Singh Kohli
+#Hi there 👋 My Name is Divya Rehat Singh Kohli
 I am a passionate CSE Bachelor Student (Graduation in 2k27), exploring the myriad worlds of coding. My Goal is to provide something meaningful to me and the community.
-
-# Skills
-
 
 <!--
 **DRS-Kohli/DRS-Kohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
